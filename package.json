@@ -1,0 +1,23 @@
+{
+  "name": "reciept-tg-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturtretyak/Reciept-tg-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturtretyak/Reciept-tg-bot/issues"
+  },
+  "homepage": "https://github.com/arturtretyak/Reciept-tg-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
